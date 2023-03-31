@@ -30,7 +30,7 @@ color: var(--primary-brand);
         list-style: none;
 }
 .list-item{
-background-color: inherit;
+background-color: var(--white-background);
 }
 .hsecond-text {
         font-style: normal;
